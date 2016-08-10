@@ -1,1 +1,1 @@
-include ':app', ':parcelablevsserializable'
+include ':app', ':parcelablevsserializable', ':forloop'
